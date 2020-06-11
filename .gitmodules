@@ -1,0 +1,9 @@
+[submodule "FingerGuns-Server"]
+	path = FingerGuns-Server
+	url = https://github.com/utsavjainb/FingerGuns-Server
+[submodule "FingerGuns-Fog"]
+	path = FingerGuns-Fog
+	url = https://github.com/utsavjainb/FingerGuns-Fog
+[submodule "FingerGuns-Edge"]
+	path = FingerGuns-Edge
+	url = https://github.com/utsavjainb/FingerGuns-Edge
